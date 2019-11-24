@@ -14,7 +14,10 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                        <button type="button" class="btn btn-primary">Primary</button>
+
+
+                        You are logged in!
                 </div>
             </div>
         </div>
